@@ -2,7 +2,7 @@
 
 Hello guys 👋
 
-I am **Santosh Bhandari**, a full stack Software Engineering working around the JavaScript Ecosystem.
+I am **Sailendra Shakya**, a full stack Software Engineering working around the JavaScript Ecosystem.
 
 ## Connect with me
 
@@ -17,13 +17,13 @@ I am **Santosh Bhandari**, a full stack Software Engineering working around the 
 Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts)
+![Languages](https://skillicons.dev/icons?i=js,ruby,php)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=vue,nuxt,html,css,bootstrap,scss)
+![Frontend Technologies](https://skillicons.dev/icons?i=vue,html,css,bootstrap,scss)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=ror,php)
+![Backend Technologies](https://skillicons.dev/icons?i=rails,laravel)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
